@@ -1,6 +1,6 @@
 # Instagram Followers Checker
 
-Link: [Demo]([https://fernandogbz.github.io/ig-unfollowers-js/])
+Link: [Demo](https://fernandogbz.github.io/ig-unfollowers-js/)
 
 # 📱 Instagram Followers Checker
 
