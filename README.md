@@ -28,15 +28,15 @@ Esta es una aplicación web moderna para comparar tus seguidores y seguidos de I
 
 /instagram-followers
 <br/>
-│** index.html # Archivo HTML principal
+│__ index.html # Archivo HTML principal
 <br/>
-│** styles.css # Estilos principales
+│__ styles.css # Estilos principales
 <br/>
-│** script.js # Lógica de la aplicación
+│__ script.js # Lógica de la aplicación
 <br/>
-│** assets/ # Imágenes y recursos
+│__ assets/ # Imágenes y recursos
 <br/>
-│\_\_ lang/ # Archivos de traducción (en.json, es.json)
+│__ lang/ # Archivos de traducción (en.json, es.json)
 
 ## 📦 Uso
 
