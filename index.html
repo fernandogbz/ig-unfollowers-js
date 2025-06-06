@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram Followers Checker</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <button id="lang-toggle" type="button" class="lang-toggle">
+      <span class="lang-label">ES</span>
+    </button>
+    <div class="main-wrapper">
+      <div class="hero-side">
+        <img
+          src="assets/instagram-web-lox-image.png"
+          alt="Instagram preview"
+          class="hero-img"
+        />
+      </div>
+      <div class="form-side">
+        <div class="form-box">
+          <h1>Instagram Followers Checker</h1>
+          <p>See who follows you back and who doesn't, instantly.</p>
+
+          <label for="followers">Followers JSON:</label>
+          <textarea
+            id="followers"
+            placeholder="Paste followers.json content here"
+          ></textarea>
+
+          <label for="following">Following JSON:</label>
+          <textarea
+            id="following"
+            placeholder="Paste following.json content here"
+          ></textarea>
+
+          <button onclick="compareLists()">Compare</button>
+        </div>
+      </div>
+    </div>
+    <div class="results">
+      <div class="results-table">
+        <div class="results-col">
+          <h2>Not Following You Back</h2>
+          <ul id="notFollowingBack"></ul>
+        </div>
+        <div class="results-col">
+          <h2>You Don't Follow Back</h2>
+          <ul id="youDontFollowBack"></ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
