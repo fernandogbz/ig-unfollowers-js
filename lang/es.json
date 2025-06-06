@@ -1,0 +1,12 @@
+{
+  "title": "Comprobador de Seguidores de Instagram",
+  "subtitle": "Mira quién te sigue de vuelta y quién no, al instante.",
+  "followersLabel": "Seguidores JSON:",
+  "followersPlaceholder": "Pega el contenido de followers.json aquí",
+  "followingLabel": "Siguiendo JSON:",
+  "followingPlaceholder": "Pega el contenido de following.json aquí",
+  "compare": "Comparar",
+  "notFollowingBack": "No te siguen de vuelta",
+  "youDontFollowBack": "No sigues de vuelta",
+  "error": "Error al analizar el JSON. Por favor revisa tu entrada."
+}

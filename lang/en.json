@@ -1,0 +1,12 @@
+{
+  "title": "Instagram Follower Checker",
+  "subtitle": "See who follows you back and who doesn't, instantly.",
+  "followersLabel": "Followers JSON:",
+  "followersPlaceholder": "Paste followers.json content here",
+  "followingLabel": "Following JSON:",
+  "followingPlaceholder": "Paste following.json content here",
+  "compare": "Compare",
+  "notFollowingBack": "Not Following You Back",
+  "youDontFollowBack": "You Don't Follow Back",
+  "error": "Error parsing JSON. Please check your input."
+}
