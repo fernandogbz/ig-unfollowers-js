@@ -53,4 +53,3 @@ Esta es una aplicación web moderna para comparar tus seguidores y seguidos de I
 5. Cambia el idioma usando el botón en la esquina superior derecha.
 
 
-
