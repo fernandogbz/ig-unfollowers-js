@@ -51,4 +51,3 @@ Esta es una aplicación web moderna para comparar tus seguidores y seguidos de I
 4. Haz clic en **Compare** para ver los resultados.
 
 5. Cambia el idioma usando el botón en la esquina superior derecha.
-
